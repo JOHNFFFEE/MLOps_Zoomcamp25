@@ -1,0 +1,2 @@
+pip install mage-ai mlflow pandas scikit-learn
+in terminal type - mage start nyc_taxi_project
