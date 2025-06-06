@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_Zoomcamp25/03-orchestration/mlruns/0/02d3fb5b5dae43818c3be23b264b15d2/artifacts
+end_time: 1749195531315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02d3fb5b5dae43818c3be23b264b15d2
+run_name: amazing-hawk-220
+run_uuid: 02d3fb5b5dae43818c3be23b264b15d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749195531309
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_Zoomcamp25/03-orchestration/mlruns/0/de54f357c499406c952f2600c62fe66e/artifacts
+end_time: 1749195625254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de54f357c499406c952f2600c62fe66e
+run_name: tasteful-mink-386
+run_uuid: de54f357c499406c952f2600c62fe66e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749195625246
+status: 4
+tags: []
+user_id: codespace

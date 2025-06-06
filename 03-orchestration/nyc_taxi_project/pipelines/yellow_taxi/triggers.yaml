@@ -1,0 +1,14 @@
+triggers:
+- description: null
+  envs: []
+  last_enabled_at: 2025-06-06 08:19:37.844895
+  name: scheduler
+  pipeline_uuid: yellow_taxi
+  schedule_interval: '@monthly'
+  schedule_type: time
+  settings: null
+  sla: null
+  start_time: 2025-06-06 08:19:00
+  status: inactive
+  token: 79daaa7ed0874f98a18ac77deb6076fa
+  variables: {}

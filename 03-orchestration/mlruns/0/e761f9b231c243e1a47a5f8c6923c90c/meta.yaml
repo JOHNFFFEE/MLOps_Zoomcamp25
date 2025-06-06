@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_Zoomcamp25/03-orchestration/mlruns/0/e761f9b231c243e1a47a5f8c6923c90c/artifacts
+end_time: 1749195777966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e761f9b231c243e1a47a5f8c6923c90c
+run_name: legendary-moth-512
+run_uuid: e761f9b231c243e1a47a5f8c6923c90c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749195712742
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps_Zoomcamp25/03-orchestration/mlruns/0/c924621d1b0e4eb7914e991342fb5499/artifacts
+end_time: 1749198230449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c924621d1b0e4eb7914e991342fb5499
+run_name: rambunctious-yak-391
+run_uuid: c924621d1b0e4eb7914e991342fb5499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749198167609
+status: 3
+tags: []
+user_id: codespace
