@@ -15,7 +15,7 @@ def train_model(df, *args, **kwargs):
 
     with mlflow.start_run():
         
-        mlflow.set_experiment("NYC tAXI")
+        # mlflow.set_experiment("NYC tAXI")  # taking too long
         mlflow.set_tag("model_type", "LinearRegression")
 
     
